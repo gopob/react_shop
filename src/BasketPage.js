@@ -4,7 +4,10 @@ import React, { Component } from 'react'
 class BasketPage extends Component{
     render () {
         return (
-            <div>BasketPage</div>
+            <div>BasketPage
+
+            </div>
+
         )
     }
 }
